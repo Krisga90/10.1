@@ -1,0 +1,1 @@
+Simple example of using objects with pointers (
